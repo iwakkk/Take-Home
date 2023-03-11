@@ -1,0 +1,11 @@
+C:\Users\edwar\source\repos\Take Home W2\bin\Debug\Take Home W2.exe.config
+C:\Users\edwar\source\repos\Take Home W2\bin\Debug\Take Home W2.exe
+C:\Users\edwar\source\repos\Take Home W2\bin\Debug\Take Home W2.pdb
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take_Home_W2.Form1.resources
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take_Home_W2.Properties.Resources.resources
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.exe
+C:\Users\edwar\source\repos\Take Home W2\obj\Debug\Take Home W2.pdb
