@@ -24,15 +24,16 @@ namespace Take_Home_W2
 
         private void btn_Submit_Click(object sender, EventArgs e)
         {
+            string umur = "";
             if (Convert.ToInt16(txt_Age.Text) < 18)
             {
-                txt_Age.Text = "minor";
+                umur = "minor";
             }
             else
             {
-                txt_Age.Text = "adult";
+                umur = "adult";
             }
-            MessageBox.Show("Name : " + txt_Name.Text + "\nEmail : " + txt_Email.Text + "\nPhone Number : " + txt_Phone.Text + "\nYou are an " + txt_Age.Text);
+            MessageBox.Show("Name : " + txt_Name.Text + "\nEmail : " + txt_Email.Text + "\nPhone Number : " + txt_Phone.Text + "\nYou are an " + umur);
         }
 
         private void btn_Clear_Click(object sender, EventArgs e)
