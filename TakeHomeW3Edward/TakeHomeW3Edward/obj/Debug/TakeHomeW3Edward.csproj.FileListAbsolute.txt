@@ -1,0 +1,24 @@
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.exe.config
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.pdb
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.AssemblyReference.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.SuggestedBindingRedirects.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Form1.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Form2.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Properties.Resources.resources
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.GenerateResource.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.CoreCompileInputs.cache
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.exe
+D:\TUGAS KULIAH\SEMESTER 2\Application Development\w4 ad\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.pdb
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.exe.config
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.exe
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\bin\Debug\TakeHomeW3Edward.pdb
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.AssemblyReference.cache
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Form1.resources
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Form2.resources
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.Properties.Resources.resources
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.GenerateResource.cache
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.csproj.CoreCompileInputs.cache
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.exe
+C:\Users\edwar\OneDrive\Documents\TakeHomeW3Edward\TakeHomeW3Edward\TakeHomeW3Edward\obj\Debug\TakeHomeW3Edward.pdb
